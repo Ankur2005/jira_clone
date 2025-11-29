@@ -57,7 +57,7 @@ const Sidebar: React.FC = () => {
         </div>
         <div>
           <h2 className="-mb-[0.5px] text-sm font-semibold text-gray-600">
-            {project?.name ?? "Project Name"}
+            SprintHub
           </h2>
           <p className="text-xs text-gray-500">Software Project</p>
         </div>
